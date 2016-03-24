@@ -1,6 +1,6 @@
 ---
   title: "NBA 2014-2015²y©u ¦U¶¤¤ÀªR"
-  github_document: html_document
+  github_document: github_document
 ---
   
   
